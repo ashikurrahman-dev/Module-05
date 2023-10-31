@@ -68,7 +68,31 @@ if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST["login"])) {
 
                                 <div class="text-center">
                                     <!-- <img src="E:/Ostad/Class/Assignment-From-Ostad/Module 05/public/img/welcome.webp" style="width: 185px;" alt="logo"> -->
-                                    <h4 class="mt-1 mb-5 pb-1">Wlcome to login page.</h4>
+                                    <h4 class="mt-1 mb-1 pb-1">Wlcome to login page.</h4>
+                                    <table class="table align-middle mb-0 bg-white">
+                                        <thead>
+                                            <tr>
+                                            <th scope="col">Email</th>
+                                            <th scope="col">Password</th>
+                                            
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                            <th scope="row">admin@gmail.com</th>
+                                            <td>9(ZmEEbj</td>
+                                            </tr>
+                                            <tr>
+                                            <th scope="row">user@gmail.com</th>
+                                            <td>9(ZmEEbj</td>
+                                            </tr>
+                                            <tr>
+                                            <th scope="row">manager@gmail.com</th>
+                                            <td>5j1H5Rk:</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    
                                 </div>
 
                                 <?php if (isset($_SESSION['success'])) :  ?>
