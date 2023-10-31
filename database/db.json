@@ -1,0 +1,31 @@
+{
+    "1": {
+        "id": 2,
+        "username": "Ashikur Rahman",
+        "email": "admin@gmail.com",
+        "role": "admin",
+        "password": "$2y$10$.\/gxMaObhm7fo7YtrBLChe00F2UkpT3eK\/k8HpcumT.rh22M\/g90u"
+    },
+    "2": {
+        "id": 3,
+        "username": "SM Emon Islam",
+        "email": "manager@gmail.com",
+        "role": "manager",
+        "password": "$2y$10$dC8f3N2mazAUUstM8oSiDu2fqjCrmRmZrgGMT1D1caObF6Y2aOKcm"
+    },
+    "4": {
+        "id": 5,
+        "username": "Jahid Rahman",
+        "email": "user@gmail.com",
+        "role": "user",
+        "password": "$2y$10$bKXW.KJdWbphPljSzU4Og.PaG93SZr8QbmOzKHnXGbHE.Nua.4.Fu"
+    },
+    "6": {
+        "id": 7,
+        "username": "Anjum Hasan Reza",
+        "email": "reza@gmail.com",
+        "role": "user",
+        "password": "$2y$10$i0XMgbWzDXOB6gzc1xkYJeZs6m9rUOVu.awRgd2GLnm5oF1IrleM."
+    }
+    
+}
